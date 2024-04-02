@@ -1,3 +1,14 @@
+# Deposit via MetaMask Page
+
+Connect and deposit ETH via MetaMask.
+
+1. **Start**: Serve `index.html` (e.g., `python -m http.server`).
+2. **Use**: Open `http://127.0.0.1:8000`, connect, and deposit.
+
+*Needs MetaMask.*
+
+---
+
 # WEMIX Deposit Script
 
 This repository contains a Node.js script for depositing WEMIX tokens and receiving DWEMIX tokens in return.
